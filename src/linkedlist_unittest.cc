@@ -38,7 +38,7 @@
 #include <random>
 #include <chrono>
 
-#include "list.h"
+#include "linkedlist.h"
 
 #include "gtest/gtest.h"
 
